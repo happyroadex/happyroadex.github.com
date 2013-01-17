@@ -9,7 +9,7 @@ Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.ht
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## 锦程快运及包装有限公司 – 快递 货运 包装
 
 In `_config.yml` remember to specify your own data:
     
