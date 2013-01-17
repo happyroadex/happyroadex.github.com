@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 锦程快运及包装有限公司 – 快递 货运 包装
-tagline: Supporting tagline
+tagline: Shipping - Packaging
 ---
 {% include JB/setup %}
 
