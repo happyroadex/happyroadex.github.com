@@ -5,7 +5,6 @@ tagline:
 ---
 {% include JB/setup %}
 
-## 锦程快运及包装有限公司 – 快递 货运 包装
 
 ## Sample Posts
 
