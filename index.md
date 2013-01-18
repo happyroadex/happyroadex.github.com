@@ -39,6 +39,15 @@ Tel: 416-816-9929 / 416-900-0159
 Fax: 905-479-6610
 
 
+
+    工作时间：
+
+    周一至周五:  9:30AM -- 7:00PM
+
+          周六：10:30AM -- 6:00PM
+
+          周日： 可预约
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
