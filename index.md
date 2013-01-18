@@ -30,9 +30,9 @@ tagline:
 地址：115 Torbay Road, Unit B5, Markham, ON, L3R2M9<br />
 (Steeles Ave. East & Victoria Park Ave.)
 
-(info@happyroad.ca)
+[info@happyroad.ca](mailto:info@happyroad.ca)
 
-(happyroad998@hotmail.com)
+[happyroad998@hotmail.com](mailto:happyroad998@hotmail.com)
 
 Tel: 416-816-9929 / 416-900-0159
 
