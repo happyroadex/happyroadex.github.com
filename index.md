@@ -22,6 +22,23 @@ tagline:
 
 
 
+## 另经营：塑料包装膜(Stretch wrap)，塑料泡膜(Bubble wrap)厂价直销
+
+
+
+
+地址：115 Torbay Road, Unit B5, Markham, ON, L3R2M9<br />
+(Steeles Ave. East & Victoria Park Ave.)
+
+info@happyroad.ca
+
+happyroad998@hotmail.com
+
+Tel: 416-816-9929 / 416-900-0159
+
+Fax: 905-479-6610
+
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
