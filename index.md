@@ -7,6 +7,8 @@ tagline:
 
 ![](http://blog.happyroadex.com/images/courier.jpg)
 
+![](http://blog.happyroadex.com/images/ex_prices.jpg)
+
 **!!! 2012年4月8日最新推出由加拿大经由香港中转批量发运中国大陆：奶粉，保健品，化妆品等，不限重量。一次邮寄15 磅以上，无首重一律 6.0 加元/磅。一次发运50 磅以上一律 5.0 加元/磅。国内到门服务，到达时间：约4周。**
 
 -
