@@ -27,7 +27,7 @@ tagline:
 ![](http://blog.happyroadex.com/images/similac.jpg) 
 ![](http://blog.happyroadex.com/images/enfamil.jpg)
 
-## 另经营：塑料包装膜(Stretch wrap)，塑料泡膜(Bubble wrap)厂价直销
+### 另经营：塑料包装膜(Stretch wrap)，塑料泡膜(Bubble wrap)厂价直销
 
 ![](http://blog.happyroadex.com/images/stretch_wrap.jpg) ![](http://blog.happyroadex.com/images/bubble_wrap.jpg)
 
@@ -53,7 +53,7 @@ Fax: 905-479-6610
 
          周日： 可预约
 
-## Sample Posts
+### Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
