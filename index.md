@@ -24,11 +24,12 @@ tagline:
 
 您只需要拨打电话或发送电子邮寄，我们将会为您购买，包装，邮寄奶粉到中国各地，以下价格包括奶粉费，运费等所有送货到中国费用：
 
-![]() ![]()
+![](http://blog.happyroadex.com/images/similac.jpg) 
+![](http://blog.happyroadex.com/images/enfamil.jpg)
 
 ## 另经营：塑料包装膜(Stretch wrap)，塑料泡膜(Bubble wrap)厂价直销
 
-![]() ![]()
+![](http://blog.happyroadex.com/images/stretch_wrap.jpg) ![](http://blog.happyroadex.com/images/bubble_wrap.jpg)
 
 
 地址：115 Torbay Road, Unit B5, Markham, ON, L3R2M9<br />
